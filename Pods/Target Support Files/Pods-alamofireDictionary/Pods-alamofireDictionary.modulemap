@@ -1,0 +1,6 @@
+framework module Pods_alamofireDictionary {
+  umbrella header "Pods-alamofireDictionary-umbrella.h"
+
+  export *
+  module * { export * }
+}
